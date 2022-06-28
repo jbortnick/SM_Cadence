@@ -1,0 +1,40 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jun-17-2022 at 18:20:51 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RSC-IT-R100';
+ POST_TIME='Jan 11 2022 00:43:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ R1 'TEST_0402_TEST':;
+
+SECTION_NUMBER 1
+ '@RSC-IT-R100.SCHEMATIC1(SCH_1):INS458@LIBRARY1.TEST.NORMAL(CHIPS)':
+ C_PATH='@\rsc-it-r100\.schematic1(sch_1):ins458@library1.\test.normal\(chips)',
+ P_PATH='@\rsc-it-r100\.schematic1(sch_1):page1_ins458@library1.\test.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'TEST_0402_TEST':;
+
+SECTION_NUMBER 1
+ '@RSC-IT-R100.SCHEMATIC1(SCH_1):INS484@LIBRARY1.TEST.NORMAL(CHIPS)':
+ C_PATH='@\rsc-it-r100\.schematic1(sch_1):ins484@library1.\test.normal\(chips)',
+ P_PATH='@\rsc-it-r100\.schematic1(sch_1):page1_ins484@library1.\test.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'TEST_0402_TEST':;
+
+SECTION_NUMBER 1
+ '@RSC-IT-R100.SCHEMATIC1(SCH_1):INS510@LIBRARY1.TEST.NORMAL(CHIPS)':
+ C_PATH='@\rsc-it-r100\.schematic1(sch_1):ins510@library1.\test.normal\(chips)',
+ P_PATH='@\rsc-it-r100\.schematic1(sch_1):page1_ins510@library1.\test.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
