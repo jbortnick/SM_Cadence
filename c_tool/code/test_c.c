@@ -47,4 +47,5 @@ int main()
             }
         }
     printf("\nTotal = %d\n", count);
+    printf("\nThis file has been updated");
 }
